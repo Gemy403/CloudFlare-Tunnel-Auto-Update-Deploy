@@ -5,4 +5,4 @@ docker run --rm \
   --run-once \
   --label-enable \
   --cleanup \
-  cloudflared_standalone_course_platform
+  cloudflared_standalone
